@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FF6370C6</color>
+    <color name="dark">#FF2C3E50</color>
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- Soft, Elegant Colors -->
+    <color name="navy">#2D3D4F</color> <!-- Navy for Backgrounds and Primary -->
+    <color name="teal">#008080</color> <!-- Teal for Buttons & Highlights -->
+    <color name="teal_dark">#006666</color> <!-- Darker Teal for Depth -->
+    <color name="soft_beige">#F4F1EC</color> <!-- Soft Beige for a light background -->
+    <color name="light_cream">#FFF8E1</color> <!-- Light Cream for Inputs, Cards -->
+    <color name="blue_soft">#4A90E2</color> <!-- Soft Blue for Buttons & Links -->
+    <color name="blue_dark">#1C2833</color> <!-- Dark Blue for Contrast Text -->
+    <color name="placeholder">#6FB6B6B6</color> <!-- Placeholder Text -->
+    <color name="gray_light">#F0F0F0</color> <!-- Light Gray for Card/Container Background -->
+    <color name="gray_dark">#404040</color> <!-- Dark Gray for Neutral Buttons/Text -->
+    <color name="error_red">#FF3B30</color> <!-- Red for Error Messages -->
+
+    <!-- Accent Colors for Highlights -->
+    <color name="highlight_light">#B5D1E9</color> <!-- Light Blue Highlight for Buttons -->
+    <color name="highlight_dark">#1F3A53</color> <!-- Darker Navy for Depth and Emphasis -->
+</resources>

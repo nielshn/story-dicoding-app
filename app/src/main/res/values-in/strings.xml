@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="email_invalid">Alamat Email Tidak Valid</string>
+    <string name="pass_invalid">Password Minimal 8 Karakter</string>
+    <string name="file_provider">%1$s.file provider</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ingin belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Belajar di Dicoding saja!</string>
+    <string name="title_welcome_page">Selamat Datang di Dicoding!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Keluar</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="date_of_story">Tanggal Cerita:</string>
+    <string name="description">Deskripsi</string>
+    <string name="required">Wajib</string>
+    <string name="create_a_new_account">Buat akun baru?</string>
+    <string name="sign_up">Daftar</string>
+    <string name="title_page">Mari buat akun dengan melengkapi data berikut</string>
+    <string name="success">Berhasil</string>
+    <string name="okay">Oke</string>
+    <string name="sign_in">Masuk</string>
+    <string name="setting">Pengaturan</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="refresh">Segarkan</string>
+    <string name="story_image">Gambar Cerita</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload_story">Unggah Cerita</string>
+    <string name="welcome">Selamat Datang di Dicoding Story</string>
+    <string name="login_success_message">Anda berhasil masuk. Tidak sabar untuk membuat cerita yang luar biasa!</string>
+    <string name="permission_request_denied">Permintaan izin ditolak</string>
+    <string name="permission_request_granted">Permintaan izin diterima</string>
+    <string name="message_insert_image">Harap masukkan file gambar terlebih dahulu</string>
+    <string name="default_success_message">Operasi berhasil</string>
+    <string name="empty_fields_error">Harap isi semua kolom</string>
+    <string name="signup_failed">Pendaftaran gagal. Silakan coba lagi.</string>
+    <string name="success_dialog_title">Berhasil</string>
+    <string name="next">Berikutnya</string>
+    <string name="successfuly_signup_message">Anda berhasil mendaftar. Tidak sabar untuk langkah selanjutnya!</string>
+    <string name="message_providing_data">Mulailah dengan masuk menggunakan email dan password Anda</string>
+    <string name="already_have_account">Sudah punya akun?</string>
+    <string name="image_story">Gambar Cerita</string>
+    <string name="signup_image">Gambar Pendaftaran</string>
+    <string name="login_image">Gambar Masuk</string>
+    <string name="detail_story_image">Gambar Detail Cerita</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Map</string>
+    <string name="share_loc">Bagikan Lokasi</string>
+    <string name="loading">Memuat</string>
+    <string name="no_media_selected">Tidak ada media terpilih</string>
+    <string name="location_error">Gagal memuat lokasi</string>
+    <string name="message_no_image_captured">Tidak ada gambar yang diambil, silakan coba lagi.</string>
+
+
+</resources>
